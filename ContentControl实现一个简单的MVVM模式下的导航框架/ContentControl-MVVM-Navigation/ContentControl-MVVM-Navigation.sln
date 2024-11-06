@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContentControl实现一个简单的MVVM模式下的导航框架", "ContentControl实现一个简单的MVVM模式下的导航框架\ContentControl实现一个简单的MVVM模式下的导航框架.csproj", "{21B62452-9D60-44B6-B9F5-580014C7235A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21B62452-9D60-44B6-B9F5-580014C7235A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B62452-9D60-44B6-B9F5-580014C7235A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B62452-9D60-44B6-B9F5-580014C7235A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B62452-9D60-44B6-B9F5-580014C7235A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93590B01-62DD-4F30-98E6-B9312A6ECE81}
+	EndGlobalSection
+EndGlobal

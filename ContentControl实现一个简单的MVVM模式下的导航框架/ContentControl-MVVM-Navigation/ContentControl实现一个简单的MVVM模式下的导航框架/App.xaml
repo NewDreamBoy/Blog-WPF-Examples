@@ -1,0 +1,7 @@
+﻿<Application
+    x:Class="ContentControl实现一个简单的MVVM模式下的导航框架.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:ContentControl实现一个简单的MVVM模式下的导航框架">
+    <Application.Resources />
+</Application>
